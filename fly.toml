@@ -1,0 +1,5 @@
+app = "main-py"
+primary_region = "ams"
+
+[build]
+  dockerfile = "Dockerfile"
